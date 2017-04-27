@@ -2,7 +2,7 @@ var express = require('express'),
 	app = express();
 
 var page = {
-	page: "This in main page",
+	page: "This in main pagewewe",
 	content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, atque."
 }
 
